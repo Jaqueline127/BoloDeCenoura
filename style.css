@@ -1,0 +1,32 @@
+@charset "UTF-8"
+
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*height: 100%;*/
+}
+body{
+    background-image: linear-gradient(to right, #D9A407 ,#BF7E04);
+} 
+
+body{ background-image: url('colorido-padrao-de-cenoura_1144-13.jpg'); 
+   
+  
+ }
+
+main {
+    background-color:white ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #050505;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+   color: #F26444 ;
+}
+h2{
+  color: #F2CA50;
+}
+p{
+    text-align: justify;
+}
